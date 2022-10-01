@@ -11,7 +11,7 @@ The data remains persistent across sessions due to the use of Localstorage where
 - Edit Notes
 - Delete Notes
 - Markdown Enabled Typing
-- Search Suggestions For Notes
+- Searchbox Autosuggestions For Notes
 - Auto Save [Saves in localstorage in browser- Instant delete button provided]
 - Change Color of Notes
 - Dark Mode
