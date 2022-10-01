@@ -2,6 +2,10 @@
 
 Easynotes is a unique cross-platform notes web app built using ReactJS
 
+#### Technical Details
+The app uses component based architecture along with useState hooks and props to transfer data around.
+The data remains persistent across sessions due to the use of Localstorage where the data is stored in the form of json objects
+
 ### Features
 - Add Notes
 - Edit Notes
