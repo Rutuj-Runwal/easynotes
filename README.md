@@ -16,7 +16,7 @@ The data remains persistent across sessions due to the use of Localstorage where
 - Change Color of Notes
 - Dark Mode
 
-## Why you should Use Easynotes:
+## Why should you Use Easynotes:
 - We assure you of our best service at all times.
 - Easy to use.
 - keep track of deadlines
