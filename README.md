@@ -67,37 +67,6 @@ The data remains persistent across sessions due to the use of Localstorage where
 ## Visit
 https://rutuj-runwal.github.io/easynotes/
 
-
-
-
-## About Me
-#### Hi 👋, I'm Rutuj
-📚 I'm a 3rd year CSE student
-
-🔭 I’m currently working on ReactJS,Python,CyberSecurity and more
-
-🌱 I’m currently learning about DeepLearning and Manifest V3
-
-👯 I’m looking to collaborate on Open source Projects
-
-😄 Pronouns: He/Him
-
-## 🛠 Skills
-- ML
-- Java
-- React.js
-- Javascript
-- Django
-- Python
-- CPP
-- Blockchain
-
-
-## 🔗 Links
-[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://rutuj-runwal.github.io/MySite/)
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rutuj-runwal/)
-
-
 ## License
 
 [MIT](https://choosealicense.com/licenses/mit/)
